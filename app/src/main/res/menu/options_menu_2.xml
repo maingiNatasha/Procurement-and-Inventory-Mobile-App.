@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="HomePage"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item1"
+        android:title="My Orders"
+        android:fontFamily="@font/poppins_medium"/>
+    <item
+        android:id="@+id/item2"
+        android:title="My Items"
+        android:fontFamily="@font/poppins_medium"/>
+
+</menu>
