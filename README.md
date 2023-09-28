@@ -2,7 +2,7 @@
 This repository contains a simple mobile application created using Java for the frontend and Php for the backend.
 
 Information is stored in a MySql database. For the purpose of this project I used Xampp server to establish a connection to php myadmin.
-The frontend was connected to the backend using REST APIs written in Php.
+The frontend was connected to the backend using REST APIs written in Php and MySQL.
 
 This project contains two modules based on the end-users; Farmers and Farm Input Suppliers.
 
